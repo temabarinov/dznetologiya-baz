@@ -1,0 +1,5 @@
+*.dSYM
+.vscode/
+*.txt
+.DS_Store
+
